@@ -11,4 +11,4 @@ This repo is for Shopware Front-End Advanced training.  <br>
 
 #Resources
 developers guide: https://developers.shopware.com/
-free Udemy course: https://www.udemy.com/shopware-template-training-basic-english
+free Udemy course: https://www.udemy.com/shopware-template-training-advanced-english
